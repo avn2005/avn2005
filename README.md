@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @avn2005
-- 👀 I’m interested in code lang
+- 👋 Hi, I’m Avanti 
+- 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any project.
 
